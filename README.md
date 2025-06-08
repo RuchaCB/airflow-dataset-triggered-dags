@@ -40,7 +40,7 @@ Everything runs inside Docker containers using **Docker Compose** for easy setup
 
 ---
 
-##📸 Output
+## 📸 Output
 
 Here are some screenshots showcasing the key outputs and results from running the pipeline.
 ![datasets_screenshot](https://github.com/user-attachments/assets/b617bb6a-500c-41c1-b132-c63387256199)
